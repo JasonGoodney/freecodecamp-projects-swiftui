@@ -61,14 +61,18 @@
 ## Table of Contents
 
 * [About the Project](#about-the-project)
-  * [Built With](#built-with)
 * [Responsive Web Design](#responsive-web-design)
-    * [Build a Tribute Page](#tribute-page)
-    * [Build a Survey Form](#survey-form)
-    * [Build a Product Land Page](#product-land-page)
-    * [Build a Technical Documentation Page](#technical-documentation-page)
+    * [Build a Tribute Page ✅](#tribute-page)
+    * [Build a Survey Form ✅](#survey-form)
+    * [Build a Product Land Page ✅](#product-land-page)
+    * [Build a Technical Documentation Page ✅](#technical-documentation-page)
     * [Build a Personal Portiflio Webpage](#person-portfolio)
 * [Front End Libraries](#front-end-libraries)
+    * [Build a Random Quote Machine ✅](#random-quote-machine)
+    * [Build a Markdown Previewer](#markdown-previewer)
+    * [Build a Drum Machine](#drum-machine)
+    * [Build a Calculator](#calculator)
+    * [Build a Pomodoro Clock](#pomodoro-clock)
 * [Data Visualization](#data-visualization)
 * [APIs and Microservices](#apis-and-microservices)
 * [Quality Assurance](#quality-assurance)
@@ -91,6 +95,16 @@
 
 <!-- Front End Libraries -->
 ## Front End Libraries
+
+### Random Quote Machine
+
+### Markdown Previewer
+
+### Drum Machine
+
+### Calculator
+
+### Pomodoro Clock
 
 <!-- Data Visualization -->
 ## Data Visualization
