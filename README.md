@@ -69,7 +69,7 @@
     * [Build a Personal Portiflio Webpage](#person-portfolio-webpage)
 * [Front End Libraries](#front-end-libraries)
     * [Build a Random Quote Machine ✅](#random-quote-machine)
-    * [Build a Markdown Previewer](#markdown-previewer)
+    * [Build a Markdown Previewer ✅](#markdown-previewer)
     * [Build a Drum Machine](#drum-machine)
     * [Build a Calculator](#calculator)
     * [Build a Pomodoro Clock](#pomodoro-clock)
