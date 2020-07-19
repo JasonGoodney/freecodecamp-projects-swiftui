@@ -1,57 +1,16 @@
 # freecodecamp-projects-swiftui
-<!--
-*** Thanks for checking out this README Template. If you have a suggestion that would
-*** make this better, please fork the repo and create a pull request or simply open
-*** an issue with the tag "enhancement".
-*** Thanks again! Now go create something AMAZING! :D
-***
-***
-***
-*** To avoid retyping too much info. Do a search and replace for the following:
-*** github_username, repo, twitter_handle, email
--->
-
-
-
-
-
-<!-- PROJECT SHIELDS -->
-<!--
-*** I'm using markdown "reference style" links for readability.
-*** Reference links are enclosed in brackets [ ] instead of parentheses ( ).
-*** See the bottom of this document for the declaration of the reference variables
-*** for contributors-url, forks-url, etc. This is an optional, concise syntax you may use.
-*** https://www.markdownguide.org/basic-syntax/#reference-style-links
--->
-[![Contributors][contributors-shield]][contributors-url]
-[![Forks][forks-shield]][forks-url]
-[![Stargazers][stars-shield]][stars-url]
-[![Issues][issues-shield]][issues-url]
-[![MIT License][license-shield]][license-url]
-[![LinkedIn][linkedin-shield]][linkedin-url]
-
-
 
 <!-- PROJECT LOGO -->
 <br />
 <p align="center">
-  <a href="https://github.com/github_username/repo">
-    <img src="images/logo.png" alt="Logo" width="80" height="80">
+  <a href="https://developer.apple.com/xcode/swiftui/">
+    <img src="https://developer.apple.com/assets/elements/icons/swiftui/swiftui-96x96_2x.png" alt="Logo" width="80" height="80">
   </a>
 
-  <h3 align="center">YOUR_TITLE</h3>
+  <h3 align="center">freeCodeCamp SwiftUI</h3>
 
   <p align="center">
-    YOUR_SHORT_DESCRIPTION
-    <br />
-    <a href="https://github.com/github_username/repo"><strong>Explore the docs »</strong></a>
-    <br />
-    <br />
-    <a href="https://github.com/github_username/repo">View Demo</a>
-    ·
-    <a href="https://github.com/github_username/repo/issues">Report Bug</a>
-    ·
-    <a href="https://github.com/github_username/repo/issues">Request Feature</a>
+    Building freeCodeCamp's projects in SwiftUI
   </p>
 </p>
 
@@ -60,7 +19,7 @@
 <!-- TABLE OF CONTENTS -->
 ## Table of Contents
 
-* [About the Project](#about-the-project)
+<!-- * [About the Project](#about-the-project) -->
 * [Responsive Web Design](#responsive-web-design)
     * [Build a Tribute Page ✅](#tribute-page)
     * [Build a Survey Form ✅](#survey-form)
@@ -76,9 +35,6 @@
 * [Data Visualization](#data-visualization)
 * [APIs and Microservices](#apis-and-microservices)
 * [Quality Assurance](#quality-assurance)
-* [License](#license)
-* [Contact](#contact)
-* [Acknowledgements](#acknowledgements)
 
 <!-- Responsive Web Design -->
 ## Responsive Web Design
@@ -115,19 +71,6 @@
 <!-- Quality Assurance -->
 ## Quality Assurance
 
-<!-- LICENSE -->
-## License
-
-Distributed under the MIT License. See `LICENSE` for more information.
-
-
-
-<!-- CONTACT -->
-## Contact
-
-Your Name - [@twitter_handle](https://twitter.com/twitter_handle) - email
-
-Project Link: [https://github.com/github_username/repo](https://github.com/github_username/repo)
 
 
 <!-- MARKDOWN LINKS & IMAGES -->
