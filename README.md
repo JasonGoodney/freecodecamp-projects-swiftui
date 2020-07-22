@@ -20,41 +20,54 @@
 ## Table of Contents
 
 <!-- * [About the Project](#about-the-project) -->
-* [Responsive Web Design](#responsive-web-design)
-    * [Build a Tribute Page ✅](#tribute-page)
-    * [Build a Survey Form ✅](#survey-form)
-    * [Build a Product Land Page ✅](#product-landing-page)
-    * [Build a Technical Documentation Page ✅](#technical-documentation-page)
-    * [Build a Personal Portiflio Webpage](#person-portfolio-webpage)
-* [Front End Libraries](#front-end-libraries)
-    * [Build a Random Quote Machine ✅](#random-quote-machine)
-    * [Build a Markdown Previewer ✅](#markdown-previewer)
-    * [Build a Drum Machine](#drum-machine)
-    * [Build a Calculator](#calculator)
-    * [Build a Pomodoro Clock](#pomodoro-clock)
-* [Data Visualization](#data-visualization)
-* [APIs and Microservices](#apis-and-microservices)
-* [Quality Assurance](#quality-assurance)
+* [x] [Responsive Web Design](#responsive-web-design)
+    * [x] [Build a Tribute Page](#tribute-page)
+    * [x] [Build a Survey Form](#survey-form)
+    * [x] [Build a Product Land Page](#product-landing-page)
+    * [x] [Build a Technical Documentation Page](#technical-documentation-page)
+    * [x] [Build a Personal Portiflio Webpage](#person-portfolio-webpage)
+* [ ] [Front End Libraries](#front-end-libraries)
+    * [x] [Build a Random Quote Machine](#random-quote-machine)
+    * [x] [Build a Markdown Previewer](#markdown-previewer)
+    * [ ] [Build a Drum Machine](#drum-machine)
+    * [ ] [Build a Calculator](#calculator)
+    * [ ] [Build a Pomodoro Clock](#pomodoro-clock)
+* [ ] [Data Visualization](#data-visualization)
+* [ ] [APIs and Microservices](#apis-and-microservices)
+* [ ] [Quality Assurance](#quality-assurance)
 
 <!-- Responsive Web Design -->
 ## Responsive Web Design
+##### [freeCodeCamp Introduction](https://www.freecodecamp.org/learn/responsive-web-design/responsive-web-design-projects/)
 
 ### Tribute Page
+##### [freeCodeCamp Objective](https://www.freecodecamp.org/learn/responsive-web-design/responsive-web-design-projects/build-a-tribute-page)
+<!-- ##### [My Solution](https://hardcore-bohr-78c1ac.netlify.app/) -->
 
 ### Survey Form
+##### [freeCodeCamp Objective](https://www.freecodecamp.org/learn/responsive-web-design/responsive-web-design-projects/build-a-survey-form)
+<!-- ##### [My Solution](https://keen-borg-5bdd35.netlify.app/) -->
 
 ### Product Landing Page
+##### [freeCodeCamp Objective](https://www.freecodecamp.org/learn/responsive-web-design/responsive-web-design-projects/build-a-product-landing-page)
+<!-- ##### [My Solution](https://vigorous-murdock-8a4c9f.netlify.app/) -->
 
 ### Technical Documentation Page
+##### [freeCodeCamp Objective](https://www.freecodecamp.org/learn/responsive-web-design/responsive-web-design-projects/build-a-technical-documentation-page)
+<!-- ##### [My Solution](https://friendly-almeida-c316c8.netlify.app/) -->
 
 ### Personal Portfolio Webpage
+##### [freeCodeCamp Objective](https://www.freecodecamp.org/learn/responsive-web-design/responsive-web-design-projects/build-a-personal-portfolio-webpage)
+<!-- ##### [My Solution](https://angry-agnesi-cf43b6.netlify.app/) -->
 
 <!-- Front End Libraries -->
 ## Front End Libraries
 
 ### Random Quote Machine
+##### [freeCodeCamp Objective](https://www.freecodecamp.org/learn/front-end-libraries/front-end-libraries-projects/build-a-random-quote-machine)
 
 ### Markdown Previewer
+##### [freeCodeCamp Objective](https://www.freecodecamp.org/learn/front-end-libraries/front-end-libraries-projects/build-a-markdown-previewer)
 
 ### Drum Machine
 
